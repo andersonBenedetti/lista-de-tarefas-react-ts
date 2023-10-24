@@ -22,5 +22,5 @@ Este repositório contém um aplicativo de lista de afazeres (to-do list) desenv
     </ul>
 </div>
 
-### Overview: <a href="lista-de-tarefas-react-ts-teste.netlify.app">Lista de tarefas<a>
+### Overview: <a href="https://app.netlify.com/sites/lista-de-tarefas-react-ts-teste.netlify.app">Lista de tarefas<a>
 
