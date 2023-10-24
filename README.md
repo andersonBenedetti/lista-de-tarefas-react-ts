@@ -22,5 +22,5 @@ Este repositório contém um aplicativo de lista de afazeres (to-do list) desenv
     </ul>
 </div>
 
-### Overview: <a href="https://techno-vue-anderson.netlify.app/">Meu Teste<a>
+### Overview: <a href="lista-de-tarefas-react-ts-teste.netlify.app">Meu Teste<a>
 
